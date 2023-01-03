@@ -7,8 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/GoncaloMourato">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GoncaloMourato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMourato&layout=compact&theme=cobalt"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GoncaloMourato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GoncaloMourato">
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMourato&layout=compact&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mourato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
